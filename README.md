@@ -12,7 +12,7 @@
 
 ## À propos
 
-Développeur full-stack en alternance chez **PARDAWAN** (2025–2026), orienté architecture propre, TDD et intégration d'API.
+Développeur full-stack en alternance chez **DAWAN** (2025–2026), orienté architecture propre, TDD et intégration d'API.
 
 Avant de venir au code, j'ai travaillé 2 ans en marketing digital chez Powershop/Eurotelecom — cette double culture **métier × technique** est un vrai atout pour comprendre les besoins fonctionnels et traduire des specs en solutions robustes.
 
@@ -23,29 +23,32 @@ Je construis des projets perso pour apprendre, tester et documenter des concepts
 ## 🧱 Stack
 
 ### Langages
-
-
-
-
-
-
+- Java / Java SE / JavaFX
+- PHP
+- TypeScript / JavaScript
+- SQL
+- Kotlin (Android)
 
 ### Frameworks & Libs
-
-
-
-
+- Spring Boot
+- Symfony
+- Angular
+- Android (ORM)
+- Tailwind CSS / DaisyUI
 
 ### Bases de données
-
-
-
-
+- MySQL
+- MariaDB
+- PostgreSQL
+- MongoDB
 
 ### DevOps & Outils
-
-
-
+- Docker
+- Git / GitLab CI
+- Usine logicielle (CI/CD)
+- UML2
+- Android Studio
+- TDD, tests unitaires
 
 
 ***
