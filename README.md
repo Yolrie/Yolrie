@@ -1,118 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0f3638&height=200&section=header&text=Quentin%20Gergaud&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20PHP%20%C2%B7%20Angular%20%C2%B7%20Spring%20Boot&descAlignY=58&descSize=16" />
+# Quentin Gergaud
 
-<br/>
+**Full-Stack Developer · Java / Spring Boot · PHP / Symfony · Angular**
 
+Applications métier, architecture propre, APIs robustes, expérimentation continue.
 
+[![Email](https://img.shields.io/badge/Email-quentin.gergaud44450%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:quentin.gergaud44450@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Yolrie-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Yolrie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%A0%20compl%C3%A9ter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
-***
+---
 
-## À propos
+## Profil
 
-Développeur full-stack en alternance chez **DAWAN** (2025–2026), orienté architecture propre, TDD et intégration d'API.
+Développeur full-stack en alternance, avec une sensibilité forte pour la **lisibilité du code**, la structuration des projets et la progression technique continue.
 
-Avant de venir au code, j'ai travaillé 2 ans en marketing digital chez Powershop/Eurotelecom — cette double culture **métier × technique** est un vrai atout pour comprendre les besoins fonctionnels et traduire des specs en solutions robustes.
+Le fil conducteur des projets : concevoir des applications utiles, maintenables et propres, avec une attention réelle portée à l'architecture, à la documentation et à l'expérience de développement.
 
-Je construis des projets perso pour apprendre, tester et documenter des concepts réels.
+---
 
-***
+## Stack
 
-## 🧱 Stack
+| Domaine | Technologies |
+|---|---|
+| Backend | Java, Spring Boot, PHP, Symfony |
+| Frontend | Angular, TypeScript, JavaScript, Tailwind CSS |
+| Data | PostgreSQL, MariaDB, MySQL, MongoDB |
+| Tooling | Docker, Git, GitLab CI, UML, TDD, Android Studio |
 
-### Langages
-- Java / Java SE / JavaFX
-- PHP
-- TypeScript / JavaScript
-- SQL
-- Kotlin (Android)
+---
 
-### Frameworks & Libs
-- Spring Boot
-- Symfony
-- Angular
-- Android (ORM)
-- Tailwind CSS / DaisyUI
+## Principes d’ingénierie
 
-### Bases de données
-- MySQL
-- MariaDB
-- PostgreSQL
-- MongoDB
+- Architecture claire avant accumulation de features.
+- Code relisible, factorisé et documenté utilement.
+- Refactoring régulier pour garder un projet maintenable.
+- Approche orientée tests, qualité et robustesse.
+- Utilisation de l’IA comme accélérateur de compréhension, pas comme substitut à la rigueur.
 
-### DevOps & Outils
-- Docker
-- Git / GitLab CI
-- Usine logicielle (CI/CD)
-- UML2
-- Android Studio
-- TDD, tests unitaires
+---
 
+## Projets sélectionnés
 
-***
+### HubSkills
+**Java · Spring Boot · PostgreSQL · Docker**
 
-## 🚀 Projets
+API REST de gestion des compétences en entreprise, pensée pour structurer des rôles, des niveaux de maîtrise et un catalogue de compétences techniques. Projet orienté backend, architecture et logique métier.
 
-### [hubskills-backend](https://github.com/Yolrie/hubskills-backend) — API REST de gestion des compétences
-> Java · Spring Boot · PostgreSQL · Docker
+### Yollab
+**PHP · Symfony 7 · MariaDB · Docker**
 
-REST API complète avec gestion des utilisateurs (employé / manager / admin), catalogue de compétences techniques et système de progression. Architecture orientée domaine, tests unitaires, documentation Swagger.
+Laboratoire personnel pour expérimenter Symfony dans des conditions proches de la production, avec une logique d'apprentissage structurée et de capitalisation technique.
 
-**Statut :** 🔨 En développement actif
+### APKTASK
+**Kotlin · Android**
 
-***
+Application Android légère de gestion de tâches journalières, conçue pour rester simple, fonctionnelle et claire dans son usage comme dans son implémentation.
 
-### [Yollab](https://github.com/Yolrie/Yollab) — Laboratoire Symfony 7
-> PHP · Symfony 7 · MariaDB · Docker
+---
 
-Environnement d'apprentissage structuré pour expérimenter des fonctionnalités Symfony avancées en conditions proches de la production. Sert de base de référence technique et de documentation personnelle.
+## Focus actuel
 
-**Statut :** 🧪 En évolution continue
+- Consolider un profil backend solide autour de Java, Spring Boot et Symfony.
+- Monter en compétence sur l’architecture logicielle et les systèmes applicatifs.
+- Produire des projets plus démonstratifs, mieux documentés et plus lisibles côté recruteur.
 
-***
+---
 
-### [APKTASK](https://github.com/Yolrie/APKTASK) — Gestionnaire de tâches Android
-> Kotlin · Android · SQLite
-
-Application Android légère pour gérer une liste de tâches journalières (max 24h). Interface simple, stockage local, notifications, réinitialisation automatique.
-
-**Statut :** ✅ Fonctionnel
-
-***
-
-### [Chronicles](https://github.com/Yolrie/Chronicles) — App de création de personnages JDR
-> TypeScript
-
-Outil de création de personnages pour jeux de rôle. Projet d'exploration TypeScript full front.
-
-**Statut :** 🔨 En développement
-
-***
-
-## 🎯 Centres d'intérêt technique
-
-- **Architecture logicielle** — Clean Code, Design Patterns, DDD
-- **Intégration d'API** — REST, microservices, Swagger/OpenAPI
-- **CI/CD & automatisation** — GitLab CI, Docker, pipeline quality
-- **Méthodo IA** — Pair programming augmenté, débogage, refactoring assisté
-- **Développement jeu vidéo** — Unreal Engine 5, Blueprint, C++ (projet perso)
-
-***
-
-## 📊 Activité GitHub
+## GitHub highlights
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolrie&show_icons=true&theme=transparent&title_color=0f766e&text_color=334155&icon_color=0f766e&border_color=d1d5db)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolrie&layout=compact&theme=transparent&title_color=0f766e&text_color=334155&border_color=d1d5db)
 
 </div>
 
-***
+---
 
-<div align="center">
-<sub>Disponible en alternance — Master CDA PARDAWAN · 2025–2026</sub>
-</div>
+## Contact
+
+- Email : [quentin.gergaud44450@gmail.com](mailto:quentin.gergaud44450@gmail.com)
+- GitHub : [github.com/Yolrie](https://github.com/Yolrie)
+- LinkedIn : à compléter
