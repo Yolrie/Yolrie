@@ -74,9 +74,7 @@ Application Android légère de gestion de tâches journalières, conçue pour r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolrie&show_icons=true&theme=transparent&title_color=0f766e&text_color=334155&icon_color=0f766e&border_color=d1d5db)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolrie&layout=compact&theme=transparent&title_color=0f766e&text_color=334155&border_color=d1d5db)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolrie&show_icons=true&theme=github_dark&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117)
 
 </div>
 
@@ -86,4 +84,4 @@ Application Android légère de gestion de tâches journalières, conçue pour r
 
 - Email : [quentin.gergaud44450@gmail.com](mailto:quentin.gergaud44450@gmail.com)
 - GitHub : [github.com/Yolrie](https://github.com/Yolrie)
-- LinkedIn : à compléter
+- LinkedIn : (https://www.linkedin.com/in/quentin-gergaud-devapp/)
