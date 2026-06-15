@@ -70,16 +70,6 @@ Application Android légère de gestion de tâches journalières, conçue pour r
 
 ---
 
-## GitHub highlights
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolrie&show_icons=true&theme=github_dark&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117)
-
-</div>
-
----
-
 ## Contact
 
 - Email : [quentin.gergaud44450@gmail.com](mailto:quentin.gergaud44450@gmail.com)
