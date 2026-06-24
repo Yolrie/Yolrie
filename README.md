@@ -8,7 +8,7 @@ Applications métier, architecture propre, APIs robustes, expérimentation conti
 
 [![Email](https://img.shields.io/badge/Email-quentin.gergaud44450%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:quentin.gergaud44450@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Yolrie-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Yolrie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%A0%20compl%C3%A9ter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quentin%20Gergaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-gergaud-devapp/)
 
 </div>
 
